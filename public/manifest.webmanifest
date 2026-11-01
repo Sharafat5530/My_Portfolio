@@ -1,0 +1,10 @@
+{
+  "name": "Sharafat Khan — AI/ML Engineer",
+  "short_name": "Sharafat Khan",
+  "description": "Sharafat Khan is an AI/ML engineer building NLP safety engines, full-stack AI platforms and data tools.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#241014",
+  "theme_color": "#241014",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
